@@ -22,6 +22,7 @@ $lang = array(
   'nav_files_short_desc' => 'Upload, Bearbeiten und Löschen von Dateien',
   'nav_edit_short_desc' => 'Einträge bearbeiten',
 
+  'nav_developer'=> 'Entwickler',
   'nav_design' => 'Design',
   'nav_create_group' => 'Gruppe erstellen',
   'nav_create_template' => 'Template erstellen',
