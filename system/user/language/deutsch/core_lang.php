@@ -28,7 +28,7 @@ $lang = array(
 
   'back' => 'Zurück',
 
-  'submit' => 'Abenden',
+  'submit' => 'Absenden',
 
   'update' => 'Aktualisieren',
 
@@ -56,7 +56,7 @@ $lang = array(
 
   'search' => 'Suchen',
 
-  'system_off_msg' => 'Diese Site ist zur Zeit nicht aktiv.',
+  'system_off_msg' => 'Diese Webseite ist zur Zeit nicht aktiv.',
 
   'not_authorized' => 'Die erforderliche Berechtigung für diese Aktion liegt nicht vor.',
 
@@ -258,19 +258,19 @@ https://support.ellislab.com/',
 
   'Sat' => 'Sam',
 
-  'Su' => 'S',
+  'Su' => 'So',
 
-  'Mo' => 'M',
+  'Mo' => 'Mo',
 
-  'Tu' => 'D',
+  'Tu' => 'Di',
 
-  'We' => 'M',
+  'We' => 'Mi',
 
-  'Th' => 'D',
+  'Th' => 'Do',
 
-  'Fr' => 'F',
+  'Fr' => 'Fr',
 
-  'Sa' => 'S',
+  'Sa' => 'Sa',
 
   'Sunday' => 'Sonntag',
 
